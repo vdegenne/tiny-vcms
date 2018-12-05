@@ -1,0 +1,7 @@
+.vscode
+src/test
+test
+.clang-format
+.gitignore
+.npmignore
+yarn.lock
